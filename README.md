@@ -6,7 +6,7 @@
 
 - 🙋‍♂️ Todo sobre mi se encuentra en **[Mi Sitio Web](https://portfolio-cc5a8.web.app/)**
 
-- 🔭 Reciente mente construyendo un `nuevo proyecto`
+- 🔭 Recientemente construyendo un `nuevo proyecto`
 
 - 🌱 Actualmente estoy aprendiendo el `Stack MERN`
 
