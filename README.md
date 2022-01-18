@@ -12,7 +12,7 @@
 
 - 👯Estoy buscando colaborar en el `desarrollo de proyectos`
 
-- 💬 Puedes pregúntame sobre cualquier cosa :sweat_smile:
+- 💬 Puedes pregúntame sobre cualquier cosa :smile:
 
 
 ## 🛠️ Tecnologías y herramientas que utlizo: 
