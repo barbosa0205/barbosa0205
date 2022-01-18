@@ -1,8 +1,7 @@
+![Cover Github profile](https://raw.githubusercontent.com/barbosa0205/barbosa0205/main/coverGit.jpg)
 <h1 align="center">console.log("Hello World <img src="https://raw.githubusercontent.com/barbosa0205/barbosa0205/main/hi.gif" width="60px"/>");</h1>
 
 ## 👨🏻‍💻 Sobre Mi:
-
-<img  src="./thoughtworks-gif_dribbble.gif" height="290px" align="right" />
 
 - 🙋‍♂️ Todo sobre mi se encuentra en **[Mi Sitio Web](https://portfolio-cc5a8.web.app/)**
 
@@ -26,4 +25,3 @@
 <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" height="25px"/>
 <img alt="postman" src="https://img.shields.io/badge/-Postman-00C7B7?style=flat-square&logo=postman&logoColor=white" height="25px"/>
 </p>
-![Cover Github profile](https://raw.githubusercontent.com/barbosa0205/barbosa0205/main/coverGit.jpg)
