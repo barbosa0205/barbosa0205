@@ -2,7 +2,7 @@
 <h1 align="center">console.log("Hello World <img src="https://raw.githubusercontent.com/barbosa0205/barbosa0205/main/hi.gif" width="60px"/>");</h1>
 
 ## 👨🏻‍💻 Sobre Mi:
-<img src="https://camo.githubusercontent.com/e278cbf655da98c004011927c9b4ef9ace0e73c9b8a41892b778bbe03c045379/68747470733a2f2f637373706f696e743130312e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032302f31302f446576656c6f7065722d6f6e2d6c6170746f702e676966"  height="220px" align="right"/>
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTAzMjQ5OGM1NDUzNGMyYmE5MTE0OWI3M2M2MWFiMzYxYTE1NmEzNSZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif"  height="220px" align="right"/>
 
 - 🙋‍♂️ Todo sobre mi se encuentra en **[Mi Sitio Web](https://portfolio-cc5a8.web.app/)**
 
